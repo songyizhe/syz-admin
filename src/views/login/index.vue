@@ -3,7 +3,7 @@
 <template>
   <div class="login-page">
     <div>
-      
+
     </div>
   </div>
 </template>
@@ -12,7 +12,7 @@
   width: 100vw;
   height: 100vh;
   background-image: url('../../assets/clouds.png');
-  background-color: #409eff;
+  background-color: #10AEFF;
   background-position: bottom;
   background-size: contain;
   background-repeat: no-repeat;
