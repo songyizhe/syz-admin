@@ -1,8 +1,8 @@
 <script lang="ts" setup>
 </script>
 <template>
-  <div class="login-page">
-    <div>
+  <div class="login-page f-c">
+    <div class="login-container">
 
     </div>
   </div>
@@ -16,5 +16,12 @@
   background-position: bottom;
   background-size: contain;
   background-repeat: no-repeat;
+
+  .login-container {
+    width: 300px;
+    height: 400px;
+    background: #fff;
+    
+  }
 }
 </style>

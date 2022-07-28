@@ -1,3 +1,26 @@
 body {
   margin: 0;
 }
+
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.f-c {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.f-bc {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.f-y {
+  display: flex;
+  flex-direction: column;
+}
+
